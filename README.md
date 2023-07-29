@@ -1,5 +1,7 @@
 ### Hi there, I am Izabel Correia 👋
 
+<p> "Imagination is better than knowlwdge" </p>
+
 <div style="display: inline_block"><br>  
   
   <img align="center" alt="Bel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
