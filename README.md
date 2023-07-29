@@ -1,6 +1,6 @@
 ### Hi there, I am Izabel Correia 👋
 
-<p> "Imagination is better than knowlwdge" </p>
+<p> "Imagination is more important than knowlwdge" </p>
 
 <div style="display: inline_block"><br>  
   
