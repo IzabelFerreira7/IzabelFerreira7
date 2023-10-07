@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6B56A6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Izabel+Correia;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
+<h3 align="center"> A BACKEND DEVELOPER </h3>
 <p align="center"> <em> "Imagination is more important than knowlwdge" </em> </p>
 
 <div align="center">
@@ -9,7 +9,7 @@
 </div>
 <hr>
 <div>  
-  <h3> My Hard Skills </h3>  
+  <h3> Languages </h3>  
   <img align="center" alt="Bel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Bel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bel-C" height="30" width="40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">          
