@@ -18,4 +18,7 @@
   <img align="center" alt="Bel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <br>
+<div>
+    ![Snake animation](https://github.com/IzabelCorreia/IzabelCorreia/blob/main/cobrinha.svg)
+</div>
 
