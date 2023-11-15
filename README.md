@@ -12,17 +12,19 @@
     <p>Hey, there 🤙🏻 I am Izabel Correia a computer scientist and I'm a backend developer. I currently live in Rio de Janeiro and I'm passionate about transforming ideas into software projects. </p>
 </div>
 <div >  
-  <h3> Languages </h3>  
-  <img align="center" alt="Bel-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <h3> Languages and Frameworks </h3>  
+  <img align="center" alt="Bel-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" >
+  <img align="center" alt="Bel-Spring" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
   <img align="center" alt="Bel-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bel-C" height="40" width="40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">          
   <img align="center" alt="Bel-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bel-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bel-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <div>
-      <h3>Frameworks</h3>
-      <img align="center" alt="Bel-Spring" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" />
-  </div>  
+  <img align="center" alt="Bel-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
 </div>
-<br>
+<div>
+    <h3>SoftSkills</h3>
+    <li>Communication</li>
+    <li>Creative Thinking</li>
+    <li>Emotional Intelligence</li>
+</div>
 
