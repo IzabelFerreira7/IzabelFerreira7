@@ -12,7 +12,7 @@
     <p>Hey, there 🤙🏻 I am Izabel Correia a computer scientist and I'm a backend developer. I currently live in Rio de Janeiro and I'm passionate about transforming ideas into software projects. </p>
 </div>
 <div >  
-  <h3> technologies</h3>  
+  <h3> Technologies</h3>  
   <img align="center" alt="Bel-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" >
   <img align="center" alt="Bel-Spring" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />  
   <img align="center" alt="Bel-MySQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
