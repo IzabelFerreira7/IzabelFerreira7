@@ -9,7 +9,7 @@
 </div>
 <hr>
 <div>
-    <p>Hey, there 🤙🏻 I am Izabel Correia a computer scientist and I'm a Data Sciencentist. I currently live in Rio de Janeiro and I'm passionate about transforming data in insights. </p>
+    <p>Hey, there 🤙🏻 I am Izabel Ferreira a computer scientist and I'm a Data Sciencentist. I currently live in Rio de Janeiro and I'm passionate about transforming data in insights. </p>
 </div>
 
 
