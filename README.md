@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6B56A6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Izabel+Correia;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6B56A6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Izabel+Ferreira;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <h3 align="center"> A Data Scientist </h3>
 <p align="center"> <em> "Imagination is more important than knowlwdge" </em> </p>
 
