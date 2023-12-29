@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6B56A6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Izabel+Ferreira;Be+Welcome!+:%29)](https://git.io/typing-svg)
-<h3 align="center"> A Data Scientist </h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6B56A6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Izabel+Correia;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<h3 align="center"> A Backend Developer </h3>
 <p align="center"> <em> "Imagination is more important than knowlwdge" </em> </p>
 
 <div align="center">
@@ -7,9 +7,6 @@
    <a href="https://www.linkedin.com/in/izabel-correia-934087211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatoizabelcorreia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-<hr>
-<div>
-    <p>Hey, there 🤙🏻 I am Izabel Ferreira a computer scientist and I'm a Data Sciencentist. I currently live in Rio de Janeiro and I'm passionate about transforming data in insights. </p>
-</div>
+
 
 
