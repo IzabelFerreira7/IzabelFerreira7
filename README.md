@@ -1,6 +1,6 @@
 # Hello, World! I'm Izabel Correia.
 <p> I am a Data Scientist from Rio de Janeiro, Brazil. I'm passionete about transforming data into valuable insigths, contributing to thr success of companies. 
-And I love to communicate with people so I learned to communicate in English, Spanish and Dutch.</p>
+And I love to communicate with people so I have learned to communicate in English, Spanish and Dutch.</p>
 
 <div>
     <a href="https://www.instagram.com/httpscorreia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
