@@ -1,4 +1,4 @@
-# Hello, World! I'm Ferreira.
+# Hello, World! I'm Izabel Ferreira.
 <p> I am a Data Scientist from Rio de Janeiro, Brazil. I'm passionete about transforming data into valuable insigths, contributing to thr success of companies. 
 And I love to communicate with people so I have learned to communicate in English, Spanish and Dutch.</p>
 
