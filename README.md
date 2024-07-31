@@ -1,7 +1,8 @@
 # Hello, World! I'm Izabel Ferreira.
-<p> I am a Data Scientist from Rio de Janeiro, Brazil. I'm passionete about transforming data into valuable insigths, contributing to thr success of companies. 
-And I love to communicate with people so I have learned to communicate in English, Spanish and Dutch.</p>
-
+<li>👩🏻‍🎓 Computer Scientist</li>
+<li>📊 Data Scientist</li>
+<li>🗣️ Portuguese - Spanish - Dutch</li>
+<br>
 <div>
     <a href="https://www.instagram.com/devbelf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/izabel-ferreira-934087211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
