@@ -1,6 +1,6 @@
 # Hello, World! I'm Izabel Ferreira.
 <li>👩🏻‍🎓 Computer Scientist</li>
-<li>📊 Data Scientist</li>
+<li>📊 Data Analyst</li>
 <li>🗣️ Portuguese - Spanish - Dutch</li>
 <br>
 <div>
