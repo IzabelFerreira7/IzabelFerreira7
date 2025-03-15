@@ -1,4 +1,4 @@
-# Hello, World! I'm Izabel Ferreira.
+# Hello, World! I'm Izabel Correia.
 <li>👩🏻‍🎓 Computer Scientist</li>
 <li>📊 Data Analyst</li>
 <li>🗣️ Portuguese - Spanish - Dutch</li>
